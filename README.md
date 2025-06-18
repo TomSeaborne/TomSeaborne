@@ -7,7 +7,7 @@
 ## Certifications
 **Abnormal AI**
 
-<a href="https://abnormal-academy.workramp.io/certificate/byFK91m6kw" target="_blank">
+<a href="https://abnormal-academy.workramp.io/certificate/byFK91m6kw" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Abnormal%20Security%20Essentials-4B0082?style=for-the-badge&logo=artstation&logoColor=white" />
 </a>
 
