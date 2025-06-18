@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Abnormal%20Security%20Essentials-4B0082?style=for-the-badge&logo=artstation&logoColor=white" />
 </a>
 
-Abnormal’s AI-driven email security platform—focusing on behavioral threat detection, phishing analysis, and automated remediation. It’s designed to strengthen your ability to prevent, detect, and respond to modern email-based attacks
+Abnormal’s AI-driven email security platform focusing on behavioral threat detection, phishing analysis, and automated remediation. It’s designed to strengthen your ability to prevent, detect, and respond to modern email-based attacks
 
 **Google Cloud**
 
@@ -19,4 +19,4 @@ Abnormal’s AI-driven email security platform—focusing on behavioral threat d
   <img src="https://img.shields.io/badge/-Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Skill-0066CC?style=for-the-badge&logo=artstation&logoColor=white" />
 </a>
 
-Demonstrating skills in preventing and managing environment threats, identifying and mitigating application vulnerabilities, and responding to security anomalies Mitigate Threats and Vulnerabilities with Security Command Center | Google Cloud Skills Boost using Google Cloud's Security Command Center. This hands-on course focused on proactive threat detection, vulnerability assessment, and incident response in multi-cloud environments to strengthen organizational security posture.RetryClaude can make mistakes. Please double-check cited sources.
+Demonstrating skills in the following: preventing and managing environment threats, identifying and mitigating application vulnerabilities, and responding to security anomalies.
