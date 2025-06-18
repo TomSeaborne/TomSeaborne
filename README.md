@@ -1,13 +1,11 @@
 ## Tom! :wave:
 
-<p>
-  <strong>Check me out on LinkedIn &rarr;</strong>
+<p style="display: flex; align-items: center; gap: 8px;">
+  <span style="font-size: 16px;">Check me out on LinkedIn →</span>
   <a href="https://www.linkedin.com/in/tom-seaborne-01b2ba167/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" style="vertical-align:middle; margin-left:1px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle;" />
   </a>
 </p>
-
-</a>
 
 ## Certifications
 **Abnormal AI**
