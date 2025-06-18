@@ -16,7 +16,7 @@ Abnormal’s AI-driven email security platform focusing on behavioral threat det
 **Google Cloud**
 
 <a href="https://www.linkedin.com/in/tom-seaborne-01b2ba167/" target="_blank">
-  <img src="https://img.shields.io/badge/-Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Skill-0066CC?style=for-the-badge&logo=artstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Mitigate%20Threats%20and%20Vulnerabilities%20with%20Security%20Command%20Center%20Skill-0066CC?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
 Demonstrating skills in the following: preventing and managing environment threats, identifying and mitigating application vulnerabilities, and responding to security anomalies.
