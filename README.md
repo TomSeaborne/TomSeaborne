@@ -43,15 +43,7 @@ These tools help identify, investigate, and monitor IP addresses that may be ass
 </a>
 
 
-**IP Reputation and Threat Intelligence Lookup Tools**
-- Talos Intelligence (https://www.talosintelligence.com/reputation_center)
 
-What it does: Provides threat intelligence on IP addresses, domains, and URLs as part of Cisco’s broader security platform.
-
-- AbuseIPDB (https://www.abuseipdb.com/)
-
-What it does: A community-driven project that tracks reports of IP addresses involved in abusive behavior such as port scans, brute force attacks, and spamming.
-
-- IPVoid (https://www.ipvoid.com/)
-
-What it does: Aggregates data from multiple blacklist and reputation services to give a consolidated report on a given IP.
+<a href="https://github.com/TomSeaborne/IP-Reputation-and-Threat-Intelligence-Lookup-Tools" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-IP%20Reputation%20and%20Threat%20Intelligence%20Lookup%20Tools-000000?style=for-the-badge&logo=tools&logoColor=white" />
+</a>
