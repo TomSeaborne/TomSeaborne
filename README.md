@@ -36,6 +36,8 @@ Demonstrating skills in the following: preventing and managing environment threa
 </a>
 
 ## Security Tools
+These tools help identify, investigate, and monitor IP addresses that may be associated with malicious activity. They're essential for threat hunting, SOC analysis, network defense, and incident response.
+
 **URL/Domain scanners**
 - VirusTotal (https://www.virustotal.com/gui/home/upload)
 What it does: Aggregates antivirus engines and URL/domain scanners to analyze files, URLs, IPs, and domains for malware and malicious activity.
