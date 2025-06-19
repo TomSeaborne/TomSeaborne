@@ -38,7 +38,9 @@ Demonstrating skills in the following: preventing and managing environment threa
 ## Security Tools
 These tools help identify, investigate, and monitor IP addresses that may be associated with malicious activity. They're essential for threat hunting, SOC analysis, network defense, and incident response.
 
-**URL/Domain scanners**
+<a href="https://github.com/TomSeaborne/URL-Domain-scanners" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-URL/Domain%20scanners-000000?style=for-the-badge&logo=tools&logoColor=white" />
+</a>
 
 
 **IP Reputation and Threat Intelligence Lookup Tools**
