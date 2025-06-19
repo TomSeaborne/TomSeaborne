@@ -39,28 +39,7 @@ Demonstrating skills in the following: preventing and managing environment threa
 These tools help identify, investigate, and monitor IP addresses that may be associated with malicious activity. They're essential for threat hunting, SOC analysis, network defense, and incident response.
 
 **URL/Domain scanners**
-- VirusTotal (https://www.virustotal.com/gui/home/upload)
-What it does: Aggregates antivirus engines and URL/domain scanners to analyze files, URLs, IPs, and domains for malware and malicious activity.
 
-- URLscan.io (https://urlscan.io/)
-
-What it does: Scans and renders websites in a sandboxed environment, capturing screenshots, redirects, and resource requests.
-
-- URLhaus (https://urlhaus.abuse.ch/browse/)
-
-What it does: A community-driven project collecting and sharing malicious URLs used in malware campaigns.
-
-- URL2PNG (https://www.url2png.com/)
-
-What it does: Generates real-time screenshots of any URL, providing a visual capture of websites.
-
-- Hybrid Analysis (https://www.hybrid-analysis.com/)
-
-What it does: A malware analysis platform that runs suspicious files in sandboxed virtual environments to detect malicious behavior.
-
-- Wannabrowser (https://www.wannabrowser.net/)
-
-What it does: A secure, sandboxed web browser used to manually inspect suspicious URLs without compromising your system.
 
 **IP Reputation and Threat Intelligence Lookup Tools**
 - Talos Intelligence (https://www.talosintelligence.com/reputation_center)
