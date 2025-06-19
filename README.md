@@ -59,3 +59,16 @@ What it does: A malware analysis platform that runs suspicious files in sandboxe
 - Wannabrowser (https://www.wannabrowser.net/)
 
 What it does: A secure, sandboxed web browser used to manually inspect suspicious URLs without compromising your system.
+
+**IP Reputation and Threat Intelligence Lookup Tools**
+- Talos Intelligence (https://www.talosintelligence.com/reputation_center)
+
+What it does: Provides threat intelligence on IP addresses, domains, and URLs as part of Cisco’s broader security platform.
+
+- AbuseIPDB (https://www.abuseipdb.com/)
+
+What it does: A community-driven project that tracks reports of IP addresses involved in abusive behavior such as port scans, brute force attacks, and spamming.
+
+- IPVoid (https://www.ipvoid.com/)
+
+What it does: Aggregates data from multiple blacklist and reputation services to give a consolidated report on a given IP.
