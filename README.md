@@ -1,11 +1,15 @@
 ## Tom! :wave:
 
 <p style="display: flex; align-items: center; gap: 8px;">
-  <span style="font-size: 16px;">Check me out on LinkedIn →</span>
+  <span style="font-size: 16px;">
+    Check me out on LinkedIn 
+    <span style="font-size: 20px; font-weight: bold; margin-left: 2px;">⟶</span>
+  </span>
   <a href="https://www.linkedin.com/in/tom-seaborne-01b2ba167/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" style="vertical-align: middle;" />
   </a>
 </p>
+
 
 ## Certifications
 **Abnormal AI**
